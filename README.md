@@ -10,7 +10,6 @@
  <p><img align="right" width="450" height="250"  src='https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/1ddc1f77-01c9-4ca1-b284-8f29940a1e97' /></p>
 
  
-  <p><img align="right" width="450" height="250"  src='' /></p>
   
 # 💫 About Me:
 

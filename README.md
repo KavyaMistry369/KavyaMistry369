@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjaygondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="KavyaMistry369" /> </p>
 
 
- <p><img align="right" width="450" height="250"  src='https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/b258f55c-b0bb-4f4c-bb82-da8b9be97c95' />
+ <p><img align="right" width="500" height="500"  src='https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/b258f55c-b0bb-4f4c-bb82-da8b9be97c95' />
 
 
   

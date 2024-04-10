@@ -8,6 +8,16 @@
 
 # Chatgpt Clone
 ![Banner](https://openai.com/social/facebook.png)(https://github.com/KavyaMistry369/chatgpt_clone)
+
+# Akhabar App
+![Banner Image](https://github.com/KavyaMistry369/news_app/assets/130814792/3e2c1bf8-c550-470f-9c90-e2ebbc023420)(https://github.com/KavyaMistry369/news_app)
+
+# Khata Sathi App
+![iPad mini 8 3 - 1 (2)](https://github.com/KavyaMistry369/khata_sathi/assets/130814792/72e235f3-81df-4f62-addd-caa7ba2de059)(https://github.com/KavyaMistry369/khata_sathi)
+
+# Toder App
+![Group 3](https://github.com/KavyaMistry369/toder/assets/130814792/842ffc81-0e78-40bf-bb72-4037247c31be)(https://github.com/KavyaMistry369/toder)
+
   
 # 💫 About Me:
 

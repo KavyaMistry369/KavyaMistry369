@@ -6,7 +6,7 @@
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjaygondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="KavyaMistry369" /> </p>
 
-### Chatgpt CLone
+# Chatgpt CLone
   
 # 💫 About Me:
 

@@ -12,9 +12,12 @@
 ![](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/6364589f-9b7b-4173-a46d-072937e98917)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/netflix_clone)
 
+
+
 ## Chatgpt Clone
 ![twitter-1-scaled](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/185a3610-ea17-4a79-b857-7c62b3020b8a)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/chatgpt_clone)
+
 
 
 ## Akhabar App
@@ -22,14 +25,17 @@
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/news_app)
 
 
+
 ## Khata Sathi App
 ![iPad mini 8 3 - 1 (2)](https://github.com/KavyaMistry369/khata_sathi/assets/130814792/72e235f3-81df-4f62-addd-caa7ba2de059)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/khata_sathi)
 
 
+
 ## Toder App
 ![Group 3](https://github.com/KavyaMistry369/toder/assets/130814792/842ffc81-0e78-40bf-bb72-4037247c31be)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/toder)
+
 
 
 ## E-commerce App

@@ -12,9 +12,8 @@
 ![](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/6364589f-9b7b-4173-a46d-072937e98917)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/netflix_clone)
 
-
 ## Chatgpt Clone
-![what-is-openai](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/d416793d-b6b3-4c99-ae1a-6b66718049ff)
+![twitter-1-scaled](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/185a3610-ea17-4a79-b857-7c62b3020b8a)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/chatgpt_clone)
 
 

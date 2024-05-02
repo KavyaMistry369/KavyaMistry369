@@ -9,11 +9,11 @@
 # Recent Projects
 
 ## Netflix Clone App
-![Banner](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/6364589f-9b7b-4173-a46d-072937e98917)
+![](https://github.com/KavyaMistry369/KavyaMistry369/assets/130814792/6364589f-9b7b-4173-a46d-072937e98917)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/netflix_clone)
 
 ## Chatgpt Clone
-![Banner](https://openai.com/social/facebook.png)
+![](https://openai.com/social/facebook.png)
 ## Click This Link To View My Project  [View](https://github.com/KavyaMistry369/chatgpt_clone)
 
 ## Akhabar App
